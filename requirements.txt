@@ -1,0 +1,5 @@
+Flask==3.1.0
+requests==2.32.3
+requests-oauthlib==2.0.0
+Flask
+requests
